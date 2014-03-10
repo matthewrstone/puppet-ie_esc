@@ -1,0 +1,26 @@
+{
+  "author": "Matthew Stone",
+  "checksums": {
+    "manifests\\init.pp": "fe50fc23c1f6f889231dcea85f6021d2",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "cca75eb3c837acb83e7945b2aac8ece3",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "Modulefile": "9f0c3682d91309d8b8fdb36dc3454cc5",
+    "README.markdown": "420cfd547b0357697b1346ffab2448b3"
+  },
+  "dependencies": [
+    {
+      "name": "puppetlabs/registry",
+      "version_requirement": "1.0.0"
+    }
+  ],
+  "description": "",
+  "license": "",
+  "name": "souldo-ie_esc",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "types": [],
+  "version": "0.1.0"
+}
